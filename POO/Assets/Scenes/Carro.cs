@@ -16,7 +16,12 @@ public class Carro
     {
         return this.nome;
     }
-
+   
+   
+    public void AtribuirCor(string cor)
+    {
+        this.cor = cor;
+    }
 
     public string CorDoCarro()
     {
@@ -32,7 +37,7 @@ public class Carro
     {
         return this.numero_de_rodas;
     }
-
+   
     public void AtribuirPreco(float preco)
     {
         this.preco = preco;
@@ -43,14 +48,14 @@ public class Carro
         return this.preco;
     }
 
-    public bool ComparePreco(Carro carro)
+    public bool ComparePreco( Carro carro )
     {
         if (this.preco > carro.Preco())
         {
             return true;
         }
-
         return false;
     }
+
+
 }
-    
