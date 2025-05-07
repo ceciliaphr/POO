@@ -444,6 +444,8 @@
 "Assets/Scenes/Carro.cs"
 "Assets/Scenes/Inimigo.cs"
 "Assets/Scenes/Personagem.cs"
+"Assets/Scenes/Player.cs"
+"Assets/Scenes/Teste do Dano.cs"
 "Assets/Scenes/Teste.cs"
 -langversion:9.0
 /deterministic
