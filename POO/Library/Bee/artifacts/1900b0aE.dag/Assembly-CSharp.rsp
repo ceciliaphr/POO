@@ -447,6 +447,7 @@
 "Assets/Scenes/MovimentoInimigo.cs"
 "Assets/Scenes/Personagem.cs"
 "Assets/Scenes/Player.cs"
+"Assets/Scenes/PlayerManager.cs"
 "Assets/Scenes/Teste de Dano.cs"
 "Assets/Scenes/Teste.cs"
 -langversion:9.0
