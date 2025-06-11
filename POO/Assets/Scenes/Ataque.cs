@@ -2,15 +2,13 @@ using UnityEngine;
 
 public class Ataque : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public Inimigo inimigo;
+    private int ataque;
+    
 
-    // Update is called once per frame
-    void Update()
+    public int AtaqueDoInimigo()
     {
-        
+        ataque = inimigo.DanoDoInimigo();
+        return ataque;
     }
 }
