@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dark-pink-color-solid-background-1920x1080_0: -2186218908009189287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
